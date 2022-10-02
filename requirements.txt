@@ -1,0 +1,9 @@
+requests
+xmltodict
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+psycopg2
+schedule
+python-telegram-bot
+pydantic
