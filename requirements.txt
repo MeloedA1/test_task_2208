@@ -7,3 +7,4 @@ psycopg2
 schedule
 python-telegram-bot
 pydantic
+PyYAML==6.0
